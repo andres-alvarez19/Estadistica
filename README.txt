@@ -1,4 +1,4 @@
-# Contenidos
+#Contenidos
 ## Técnicas de Exploración de Datos
 - Introducción y Conceptos Relacionados
 - Estadística Descriptiva para Datos No Agrupados
